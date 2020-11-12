@@ -1,8 +1,12 @@
 {
-  "player": [
+  "players": [
     {
       "id": "Victor Diaz",
       "rebounds": "10"
+    },
+    {
+      "id": "V",
+      "rebounds": "20"
     }
   ],
   "profile": {
