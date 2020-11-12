@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "player": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "Victor Diaz",
+      "rebounds": "10"
     }
   ],
   "profile": {
