@@ -1,15 +1,15 @@
 {
   "posts": [
     {
-      "id": "cristianoronaldo",
+      "id": "cristiano_ronaldo",
       "price": "117.000.000"
     },
     {
-      "id": "antoinegriezmann",
+      "id": "antoine_griezmann",
       "price": "132.000.000"
     },
     {
-      "id": "philippecoutinho",
+      "id": "philippe_coutinho",
       "price": "143.000.000"
     }
   ],
