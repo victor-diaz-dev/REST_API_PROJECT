@@ -1,12 +1,16 @@
 {
   "posts": [
     {
-      "id": "Victor Diaz",
-      "rebounds": "10"
+      "id": "cristiano ronaldo",
+      "price": "117.000.000"
     },
     {
-      "id": "V",
-      "rebounds": "20"
+      "id": "antoine griezmann",
+      "price": "132.000.000"
+    },
+    {
+      "id": "philippe coutinho",
+      "price": "143.000.000"
     }
   ],
   "profile": {
